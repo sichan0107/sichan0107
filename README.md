@@ -1,4 +1,4 @@
-<a href="https://sichan-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/myBlog-FF5722?style=social&logo=blogger&logoColor=white"/></a>
+<a href="https://sichan-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/myBlog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
