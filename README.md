@@ -1,5 +1,8 @@
 <a href="https://sichan-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog?style=social&logo=blogger&logoColor=FF5722"/></a>
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
 <!--
 **sichan0107/sichan0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
