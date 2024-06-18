@@ -1,6 +1,11 @@
+Check my bio >3<
+
+Click here !!
 <a href="https://sichan-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/myBlog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
 
 
 <!--
