@@ -1,5 +1,7 @@
 <center>
-
+ 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=sichan%20bio&fontSize=50)
+ 
 **Check my bio >3<** 
 
 **I like**
