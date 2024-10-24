@@ -1,6 +1,6 @@
 <center>
  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=sichan%20bio&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=50&section=header&text=sichan%20bio&fontSize=30)
  
 **Check my bio** 
 
