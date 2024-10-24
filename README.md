@@ -2,28 +2,26 @@
  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=sichan%20bio&fontSize=50)
  
-**Check my bio >3<** 
+**Check my bio** 
 
-**I like**
-
-⚽ Futsal / 🚓 Go for a drive /  🍷 Coffee 
+⚽ / 🚓 /  🍷  
 
 ***
 
-🔨 Main Skills 🔨
+🔨 Main Skills 
 
 <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Springboot-green?style=plastic&logo=springboot&logoColor=white"> 
 <img src="https://img.shields.io/badge/security-green?style=plastic&logo=springsecurity&logoColor=white"> 
 <img src="https://img.shields.io/badge/oracle-red?style=plastic&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-navy?style=plastic&logo=postgresql&logoColor=white">
 
- 🔧  ETC  🔧 
+ 🔧  ETC  
 
 <img src="https://img.shields.io/badge/postman-orange?style=plastic&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/intelliJ-navy?style=plastic&logo=intellijidea&logoColor=white"> 
 <img src="https://img.shields.io/badge/awss3-grey?style=plastic&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/lambda-grey?style=plastic&logo=awslambda&logoColor=white">
 
-✏️ Study ✏️
+✏️ Study 
 
 <img src="https://img.shields.io/badge/docker-blue?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/linux-blue?style=plastic&logo=linux&logoColor=white">
 
