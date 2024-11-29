@@ -32,6 +32,7 @@
 👀 Social 👀
 
 <a href="https://sichan-dev.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-green?style=plastic&logo=blogger&logoColor=white"/></a>
+<a href="https://dear-room-cc2.notion.site/10706a484e7a80ffa5bac717af9a7ae9" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white"/></a>
 
 <!--
 **sichan0107/sichan0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
